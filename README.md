@@ -1,6 +1,6 @@
 # 2016-General-Election-Poll-Analysis
 
-##Election Poll Data Analysis
+## Election Poll Data Analysis
 In this project, we'll look at the opinion poll data from the upcoming 2016 General Election. In the process, we'll try to answer the following questions:
 
 Who was being polled and what was their party affiliation?
